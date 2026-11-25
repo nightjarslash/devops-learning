@@ -20,4 +20,7 @@ another big file but theres duplicates so we sort the file then print unique lin
 a lot of data and unreadeable stuff but we can pull strings only and then grep "=" as we are given that is next to the password
 ## LEVEL 10 ##
 just decode using -d for the base64 to get password
-
+## LEVEL 11 ##
+translate using list one as the alphabet and list two to be the format of rot13
+## LEVEL 12 ##
+file had multiple compression layers, file filename then use gzip bzip and tar to decompress the files
